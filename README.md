@@ -26,3 +26,8 @@ item 2
 item 3
  * item 3a
  * itm 3b
+
+
+![GitHub logo](/images/logo.png)
+
+Format: ![Alt Text](url)
